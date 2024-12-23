@@ -1,0 +1,11 @@
+# Credentials and configs
+config.ini
+*.key
+api_key.txt
+keys/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
