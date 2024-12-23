@@ -13,3 +13,5 @@ FutureForge is a comprehensive analysis tool for prediction markets, currently s
 ## Installation
 
 1. Clone the repository: 
+
+this is a test
