@@ -9,9 +9,3 @@ FutureForge is a comprehensive analysis tool for prediction markets, currently s
 - 🤖 AI-powered market label categorization
 - 💹 Volume-based market filtering
 - 📑 Automated data storage and organization
-
-## Installation
-
-1. Clone the repository: 
-
-this is a test
